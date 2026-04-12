@@ -9,7 +9,7 @@
 <div align="center">
 
 ### 🎓 **B.Sc. Computer Science Student (6th Sem)** 📍 **Based in Siliguri, West Bengal**
-💡 **MERN Stack | Full-Stack | Java | Python | MySQL**
+💡 **MERN Stack | Full-Stack | Js | Python | Linux**
 
 ---
 
