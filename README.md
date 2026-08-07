@@ -10,12 +10,12 @@
 
 <div align="center">
 
-### 🎓 **B.Sc. Computer Science Student (6th Sem)** 📍 **Based in Siliguri, West Bengal**
-💡 **MERN Stack | Full-Stack | Js | Python | Linux**
+### 🎓 **B.Sc. Computer Science Student** 📍 **Based in Siliguri, West Bengal**
+💡 **MERN Stack | Full-Stack | Js | Python**
 
 ---
 
-I am a passionate Computer Science student and full-stack developer currently mastering the **MERN Stack**. I have hands-on experience building projects like **Laundrolink** and a **Library Management System** using **Express.js** and **MongoDB**.
+I am a passionate Computer Science student and full-stack developer currently mastering the **MERN Stack**. I have hands-on experience building projects like **Laundrolink** and a **Library Management System and as well as Visitor Pass Management System** using **Express.js** and **MongoDB**.
 
 I thrive in project-based learning and enjoy solving complex problems through code. My focus is on creating efficient, scalable web applications while maintaining a strong foundation in **Data Structures and Algorithms**.
 
