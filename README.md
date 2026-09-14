@@ -106,7 +106,7 @@ I thrive in project-based learning and enjoy solving complex problems through co
 
 | 🎓 Degree | 🏛️ Institution | 📅 Year |
 |-----------|----------------|---------|
-| **B.Sc. in Computer Science** | Undergraduate College | 2024 – 2027 (Expected) |
+| **B.Sc. in Computer Science** | Undergraduate College | 2023 – 2027 (Expected) |
 
 </div>
 
