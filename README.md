@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0e75b6,100:00B4D8&height=220&section=header&text=Apurbo%20Chakrabarty&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0e75b6,100:00B4D8&height=220&section=header&text=Apurbo%20Chakrobarty&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=55&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications+with+MERN;Express.js+%7C+MongoDB+%7C+React+%7C+Node.js;Academic+Tutor+%7C+Lifelong+Learner;Aspiring+Master's+Student+%7C+German+Learner)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="mailto:apurbochakrabarty2k25@gmail.com">
+<a href="mailto:itschakrabarty001@gmail.com
+">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/apurbo-chakrabarty">
@@ -171,9 +172,9 @@ Dynamic full-stack task manager application featuring CRUD operations and decoup
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/apurbo2k25/apurbo2k25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
+</div> -->
 
 <br/>
 
